@@ -2,7 +2,12 @@
   "showUnsupportedFiles": false,
   "newLinkFormat": "relative",
   "useMarkdownLinks": false,
+<<<<<<< HEAD
   "attachmentFolderPath": "raw/assets",
   "promptDelete": false,
   "alwaysUpdateLinks": true
 }
+=======
+  "attachmentFolderPath": "raw/assets"
+}
+>>>>>>> 01c55c6f001883f8f75aefb75583fce3c1e0456a

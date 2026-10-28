@@ -9,6 +9,7 @@
   "page-preview": true,
   "daily-notes": false,
   "templates": true,
+<<<<<<< HEAD
   "properties": true,
   "canvas": true,
   "footnotes": false,
@@ -30,3 +31,7 @@
   "bases": true,
   "webviewer": false
 }
+=======
+  "properties": true
+}
+>>>>>>> 01c55c6f001883f8f75aefb75583fce3c1e0456a
