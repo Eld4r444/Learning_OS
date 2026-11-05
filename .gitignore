@@ -1,0 +1,15 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.env
+.env.*
+*.key
+*.pem
+secrets/
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/
+.venv/
